@@ -1,6 +1,5 @@
 # Text Editor
-
-![](https://github.com/steevensalony/weather-dashboard/blob/main/assets/images/Screenshot%202023-02-24%20at%208.42.57%20PM.png)
+<img width="2240" alt="Screenshot 2023-05-15 at 9 35 42 PM" src="https://github.com/steevensalony/text-editor/assets/108702715/528ae5ed-265e-44a3-8fd2-4901eb6d6d34">
 
 ## Description
 
